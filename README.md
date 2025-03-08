@@ -17,4 +17,5 @@ Aby zagrać w grę bezpośrednio w przeglądarce, kliknij [tutaj](https://drewni
 ## Instalacja
 
 1. Sklonuj repozytorium:
+   ```bash
    git clone https://github.com/twoje-nazwa-uzytkownika/dino-game.git
