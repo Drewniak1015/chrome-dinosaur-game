@@ -11,6 +11,9 @@ Dino Game to prosta, ale wciągająca gra, w której sterujesz dinozaurem, unika
 2. Użyj klawisza **spacja**, aby skakać nad przeszkodami.
 3. Staraj się zdobywać jak najwięcej punktów, unikając kolizji z kaktusami.
 
+## Gra online
+Aby zagrać w grę bezpośrednio w przeglądarce, kliknij [tutaj](https://drewniak1015.github.io/chrome-dinosaur-game/).
+
 ## Instalacja
 
 1. Sklonuj repozytorium:
