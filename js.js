@@ -47,7 +47,7 @@ function updateSpeedScale(delta) {
 }
 function updateScore(delta) {
   Score += delta * 0.01;
-  scoreElem.textContent = Math.floor(Score);
+  scoreElem.textContent = 'Punkty:'+Math.floor(Score);
 }
 function handleStart() {
   lastTime = null;
